@@ -131,6 +131,14 @@ merge_requests // 合并分支
    # 再来查下冻结暂存分支列表
    $ git stash list
 
+   # 关联远程仓库
+   $ git init
+   $ git remote add orign #项目ssh#
+   $ git add .
+   $ git commit -m '注释'
+   $ git push -u origin main 
+   $ 
+
 ```
 
 ## 2、使用
