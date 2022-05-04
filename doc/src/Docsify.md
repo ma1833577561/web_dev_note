@@ -31,6 +31,6 @@ $	docsify init ./
 
 ```bash
 
-$	docsify serve ./
+$	docsify serve ./doc
 
 ```
